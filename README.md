@@ -1,4 +1,10 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=e0f0ff&height=240&section=header&text=✧｡ﾟ*%20DAYEON%20WON%20✧･ﾟ&fontSize=50&fontColor=a3d3ff&animation=fadeIn&fontAlignY=38)
+
+<br/>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dazzel3)](https://github.com/dazzel3/github-readme-stats) <br/>
+<a href="https://github.com/dazzel3"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdazzel3&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a> <a href="https://solved.ac/aakk9350"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=aakk9350"/></a>
 
 <!--
 **dazzel3/dazzel3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
