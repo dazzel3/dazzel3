@@ -1,5 +1,5 @@
 
-<a href="https://github.com/dazzel3"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdazzel3&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a> <a href="https://solved.ac/aakk9350"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=aakk9350"/></a>
+<a href="https://github.com/dazzel3"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdazzel3&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
 <br/>
 <br/>
 <p>
